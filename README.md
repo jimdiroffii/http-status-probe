@@ -2,6 +2,12 @@
 
 A simple HTTP Status Probe written in C.
 
+Compile:
+
+```bash
+❯ gcc -std=c11 -Wall -Wextra -O2 -o http-status-probe http-status-probe.c
+```
+
 Usage:
 
 ```bash
