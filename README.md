@@ -5,12 +5,13 @@ A simple HTTP Status Probe written in C.
 Usage:
 
 ```bash
-./http-status-probe www.example.com
+> ./http-status-probe www.example.com
 ```
 
 Response:
 
 ```bash
-> 200 OK
+Status line: HTTP/1.1 308 Permanent Redirect
+308 Permanent Redirect
 ```
 
