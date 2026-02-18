@@ -11,7 +11,7 @@ Compile:
 Usage:
 
 ```bash
-> ./http-status-probe www.example.com
+❯ ./http-status-probe www.example.com
 ```
 
 Response:
